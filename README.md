@@ -118,3 +118,135 @@ management, capital management and portfolio
 management. For more information on how the
 robot works, you can read the article presented in
 the footer of the site in the How it works section.
+
+# Execute token on Tron
+
+The NCC token is offered on the Tron
+blockchain platform. To use this token, the Tron
+wallet is required. Also, the reasons that can be
+used to use the Tron platform to provide this
+digital currency are the low cost of network
+transactions and high transaction speed are in
+this platform.
+
+Total available tokens: 102,000,000
+
+Tokens available to manufacturers: 12,000,000
+
+Tokens for AirDrop: 10,500,000
+
+Tokens offered to the market: 79,500,000
+
+# Start Defi system
+This stage represents the official start of Defi
+Startup activities, which includes the end of the
+eleventh stage of Road Map. And includes a
+complete cycle of decentralized economics
+
+# Airdrop
+AirDrop includes the initial offering of tokens to
+initial investors for free. In the case of AirDrop,
+people who have entered the initial stages of
+start-up include receiving tokens for free. The
+timeframe for AirDrop is eighteen to twenty-four
+months after the start-up, which is approximately
+equal to the start time of IEO.
+
+# Exchange initial supply
+After the completion of AirDrop and the increase
+in the number of holders, the token will be ready
+to be transferred to the exchange offices to find
+its true value in the global market. Exchanges
+will acquire its original value and will be
+registered in the coinmarketcap.
+
+# Silk payment gateway
+After inserting the token in coinmarketcap, the
+first financial project, is creating an online
+payment gateway on the blockchain platform,
+will start. In this project, the goal is to create a
+platform for payment with all coins and tokens
+on the market. Users can pay in different
+currencies online.
+
+# Lending
+The lending system works like any other similar
+system, digital currency holders can lend any
+valid digital currency to this startup in exchange
+for a monthly interest, the startup can use the lent
+capital in the financial markets and with the
+amount of capital raised, it strives to be
+profitable, and the profits will be shared among
+the lenders.
+
+# Decentralized wallet
+The next project presented in the roadmap is to
+create a decentralized wallet on the blockchain
+platform. This will ensure that the assets of the 
+participants in this startup as a value in a secure
+platform are well maintained. On the other hand,
+this decentralized wallet is a good platform to
+provide decentralized exchange to
+manufacturers.
+
+# Decentralized exchange
+Decentralized exchange will be created in the
+context of the above-mentioned wallet.
+Decentralized exchange will allow users to
+convert their digital assets into Fiat currency
+without intermediaries and heavy fees, and vice
+versa.
+
+# credit card
+Credit cards, which can be considered as
+hardware wallets, allow you to store your digital
+assets. These cards are attached to your digital
+wallet and in some places Who accept digital
+currency will be usable.
+
+# Cloud Mining
+In the last stage of the first season of the
+roadmap, there is cloud mining. In this section,
+using the strategy of locking assets for a limited
+time, the goal is to increase the value of the
+token, in this way, which does not require strong
+hardware. It can be rewarded by locking its
+assets from ongoing transactions, in simpler
+terms it will be rewarded by increasing the power
+of the network.
+
+# Monetization model
+By renting a robot, Netcoincapital allows people
+to pay 2.5 to 7% interest and pays a commission
+in the form of affiliate marketing. They can
+increase their shares and get more tokens with
+the help of income plan.
+
+In this project, participants will receive
+commissions from the first, second and third
+levels
+
+First level 5%
+
+Second level 2%
+
+Third level 3%
+
+(In case of increase in the shopping cart, the
+representative will receive 5% commission)
+
+If the amount brought from the total of three
+levels during a month is one thousand dollars and
+above one thousand dollars, 5% double
+commission will be paid
+
+It should be noted that in the AirDrop program,
+participants receive commissions from all three
+levels
+
+First level 20%
+
+Second level 10%
+
+Third level 20%
+
