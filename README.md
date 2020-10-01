@@ -1,3 +1,4 @@
+![alt text](https://www.netcoincapital.com/assets/images/resources/logo-dark.png)
 # Introduction
 
 Based on the mechanization and overscientificization of today's lives, we see the
