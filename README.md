@@ -257,3 +257,41 @@ second chapter of the roadmap will be presented
 fully in the next White Paper update.
 
 # Disclaimer <img src="https://www.flaticon.com/svg/static/icons/svg/1159/1159417.svg" width="30" height="30" /> 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Green_tick.svg/480px-Green_tick.svg.png" width="10" height="10" /> 1- Any news other than the official social pages
+of the company will not be the responsibility of
+the company.
+
+2 - Users should note that the main domains of
+the company on the Internet are
+netcoincapital.com and capitalleaders.io, and any
+mistake in participating in fake or similar
+projects, will have no legal responsibility for the
+company.
+
+3- We will do our best to fulfill the roadmap, but
+it should be noted that there are ups and downs
+for all businesses and start-ups, so please decide
+with sufficient knowledge in this area, examine
+all aspects of it first.
+
+4 - Avoid profiteers the company has not
+imposed any obligation on the amount of your
+participation and the minimum amount of
+participation is equal to $ 50, so if you can not
+afford it, avoid risky investments.
+
+5- Any manipulation of White Paper and the
+roadmap will have legal consequences, refrain
+from distorting the contents of this White Paper
+separately.
+
+6- The price of this digital currency will be
+determined after its presentation to the global
+market, so do not buy it before determining the
+price from separate Individual or entity.
+
+7- This digital currency will be provided to the
+initial investors for free through the official site
+according to the plans presented in a limited
+time.
