@@ -10,7 +10,9 @@ next problems will be caused by these two
 factors:
 
 1- Becoming a machine
+
 2- Full time work
+
 It has infiltrated the lives of all human beings in
 such a way that each human being has become a
 human machine to regain his true position in
