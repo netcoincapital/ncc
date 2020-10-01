@@ -256,4 +256,4 @@ the second chapter of the roadmap will start. The
 second chapter of the roadmap will be presented
 fully in the next White Paper update.
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/1159/1159417.svg" alt="drawing" style="width:80px;"/>
+<img src="https://www.flaticon.com/svg/static/icons/svg/1159/1159417.svg" width="50" height="50" />
