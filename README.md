@@ -17,11 +17,13 @@ It has infiltrated the lives of all human beings in
 such a way that each human being has become a
 human machine to regain his true position in
 order to keep their job.
+
 Netcoincapital is a startup that offers innovative
 solutions to challenges in various fields such as
 human capital, supply chain management, sales
 and marketing, etc. to prevent countless losses in
 this crisis.
+
 Certainly, the strategy of this startup company
 will be to create income and employment and
 upgrade the scientific level in the fields of
