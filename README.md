@@ -1,4 +1,5 @@
 ![alt text](https://www.netcoincapital.com/assets/images/resources/logo-dark.png)
+
 # Introduction
 
 Based on the mechanization and overscientificization of today's lives, we see the
@@ -7,6 +8,7 @@ On the other hand, in order to meet our needs, we
 will have to work several times a day. All the
 next problems will be caused by these two
 factors:
+
 1- Becoming a machine
 2- Full time work
 It has infiltrated the lives of all human beings in
