@@ -34,3 +34,39 @@ will pay enough attention to innovation and civic
 responsibility in the field of FinTech, we will
 work in the field of FinTech that will increase
 revenue
+
+# What is Netcoincapital?
+
+Netcoincapital is a start-up in the field of fintech
+and developer of artificial intelligence, which is
+defined for operating in the blockchain platform.
+Netcoincapital is an ideology based on two
+pillars:
+
+1- Job creation and income generation
+
+2- Production of hardware and software
+technology
+
+We must first draw your attention to a revenuegenerating and knowledge-based system to
+provide new technologies in the field of
+blockchain, financial engineering and computer
+science through your participation.
+
+# Why Netcoincapital?
+
+Netcoincapital builds an artificial intelligence
+with the Python programming language. This
+robot does not use leverage to analyze the
+market, avoids unreasonable risks as much as
+possible, and enters the market in appropriate
+situations. Worked on the basis of digital
+currencies, it has a good performance in capital
+and risk management and accurately predicts the
+market. One of the goals of this artificial
+intelligence is to reach maturity in the financial
+markets so that it can do things from Such as
+analysis and introduction of new markets,
+investment analysis and investment proposal,
+offer the best position to enter the market and ...
+to bring to the user.
