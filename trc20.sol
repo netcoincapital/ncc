@@ -206,8 +206,8 @@ contract Token is ERC20Interface, Owned {
 contract CommonToken is Token {
 
   constructor(string memory _name, string memory _symbol, uint8 _decimals, uint256 _initialSupply) public {
-    name = Netcoincapital;
-    symbol = NCC;
+    name = "Netcoincapital";
+    symbol = "NCC";
     decimals = 102000000;
     totalSupply = 102000000 * 10 ** uint256(decimals);
     _balances[msg.sender] = totalSupply;
