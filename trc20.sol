@@ -224,6 +224,6 @@ contract CommonToken is Token {
 
 contract NCToken is CommonToken {
 
-  constructor() CommonToken("netcoincapital", "NCC", 18, 102000000) public {}
+  constructor() CommonToken("Netcoincapital", "NCC", 18, 102000000) public {}
 
 }
