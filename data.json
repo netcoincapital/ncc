@@ -11,31 +11,3 @@
     "value": "Business first"
   },
   "positionName": "Cheaf Executive Officer ",
-  "children": [
-    {
-      "name": "Davolio Nancy",
-      "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg",
-      "area": "Corporate",
-      "profileUrl": "http://example.com/employee/profile",
-      "office": "CEO office",
-      "tags": "Ceo,tag1, tag2",
-      "isLoggedUser": false,
-      "unit": {
-        "type": "business",
-        "value": "Business one"
-      },
-      "positionName": "CTO ",
-      "children": [
-        {
-          "name": " Leverling Janet",
-          "imageUrl": "https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg",
-          "area": "Corporate",
-          "profileUrl": "http://example.com/employee/profile",
-          "office": "CEO office",
-          "tags": "Ceo,tag1, tag2",
-          "isLoggedUser": false,
-          "unit": {
-            "type": "department",
-            "value": " Finance Department",
-            "desc":"Finance Dept description"
-          },
